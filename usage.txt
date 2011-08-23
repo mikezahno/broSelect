@@ -1,0 +1,7 @@
+General usage - to be updated:
+
+$(function() {
+
+    $('#foo').broSelect();
+
+});
